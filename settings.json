@@ -1,0 +1,10 @@
+{
+  "volume": 3000,
+  "packingCost": 2,
+  "freePackagingAmount": 40,
+  "transportationCost": 6,
+  "probability": 0.8
+  "maxLength": 6,
+  "maxWidth": 3,
+  "maxHeight": 3,
+}
